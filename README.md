@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 😆 I'm Lihui Yan, 言立慧（男） in Chinese.
-- 🏫 I am a master's degree graduate in electronic information from the NSSC, University of Chinese Academy of Sciences(UCAS), Beijing.
+- 🏫 I am a master's degree graduate in electronic information from the University of Chinese Academy of Sciences(UCAS).
 - 🔭 I'm currently working as an algorithm engineer in [Deeproute](https://www.deeproute.ai/).
 - 🌱 I'm developing algorithm of navi model and computer vision, I am currently working on OCC.
 - 📫 How to reach me: roobtyan@qq.com
